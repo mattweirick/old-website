@@ -6,15 +6,15 @@
   #gh_user: jarrekk
   #repo: Jalpc
   website: https://static.mclibrary.duke.edu/history-of-medicine/develop/
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/debaccio.jpeg
   desc: While working at Duke University Medical Center Library & Archives, I worked with our IT department to develop a web exhibit of our History of Medicine collection for a kiosk bringing attentiont to the items.
 
 - name: LibGuides / Somatic Shakespeare
   website: http://guides.mclibrary.duke.edu/somaticshakespeare
-  img: /static/assets/img/landing/leetcode.png
+  img: /static/assets/img/landing/libguides-icon.png
   desc: Throughout a series of classes at UNC SILS, I built this guide using the Springer LibGuides software at Duke University Medical Center Library & Archives.
 
 - name: Answering Questions / Interactive Dendrogram
   website: https://opal.ils.unc.edu/~mattj/html.html
-  img: /static/assets/img/landing/familycode.png
+  img: /static/assets/img/landing/network.png
   desc: I started programming this dendrogramming usind d3 to point students towards resources for answering various clinical questions.
