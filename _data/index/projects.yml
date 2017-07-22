@@ -7,16 +7,14 @@
   #repo: Jalpc
   website: https://static.mclibrary.duke.edu/history-of-medicine/develop/
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: While working at Duke University Medical Center Library & Archives, I worked with our IT department to develop a web exhibit of our History of Medicine collection for a kiosk bringing attentiont to the items.
 
-- name: LeetCode
-  i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
+- name: LibGuides: Somatic Shakespeare
+  website: http://guides.mclibrary.duke.edu/somaticshakespeare
   img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Throughout a series of classes at UNC SILS, I built this guide using the Springer LibGuides software at Duke University Medical Center Library & Archives.
 
-- name: FamilyCODE Wchat
-  i18n: familycode
+- name: Answering Questions / Interactive Dendrogram
+  website: https://opal.ils.unc.edu/~mattj/html.html
   img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+  desc: I started programming this dendrogramming usind d3 to point students towards resources for answering various clinical questions.
