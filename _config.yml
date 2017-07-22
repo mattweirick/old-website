@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Matty  # Be used at blog posts' author.
   first_name: Matty  # Be used at index page about me section.
   last_name: Johnson  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /Users/mattyboy/Documents/GitHub/Jalpc/static/assets/img/landing/IMG_4897.jpg  # upload your avatar at directory and edit it.
   github_username: mattweirick  # Leave blank if you don't have now
   linkedin_id: matthew-w-johnson # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
