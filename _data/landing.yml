@@ -6,21 +6,21 @@
   tpl: about.html
   css:
 
-- id: career
+- id: Experience
   i18n: nav.career
-  name: Career
+  name: Experience
   tpl: career.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
-  css: team
+- #id: skills
+  #i18n: nav.skills
+  #name: Skills
+  #tpl: skills.html
+  #css: team
 
-- id: projects
+- id: Service
   i18n: nav.projects
-  name: Projects
+  name: Service
   tpl: projects.html
   css: project
 
