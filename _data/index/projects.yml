@@ -6,7 +6,7 @@
   #gh_user: jarrekk
   #repo: Jalpc
   website: https://static.mclibrary.duke.edu/history-of-medicine/develop/
-  img: <i class="fa fa-code-fork" aria-hidden="true"></i>
+  img: fa-code-fork
   desc: While working at Duke University Medical Center Library & Archives, I worked with our IT department to develop a web exhibit of our History of Medicine collection for a kiosk bringing attentiont to the items.
 
 - name: LibGuides / Somatic Shakespeare
