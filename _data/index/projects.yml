@@ -9,7 +9,7 @@
   img: /static/assets/img/landing/jekyll.png
   desc: While working at Duke University Medical Center Library & Archives, I worked with our IT department to develop a web exhibit of our History of Medicine collection for a kiosk bringing attentiont to the items.
 
-- name: LibGuides: Somatic Shakespeare
+- name: LibGuides / Somatic Shakespeare
   website: http://guides.mclibrary.duke.edu/somaticshakespeare
   img: /static/assets/img/landing/leetcode.png
   desc: Throughout a series of classes at UNC SILS, I built this guide using the Springer LibGuides software at Duke University Medical Center Library & Archives.
