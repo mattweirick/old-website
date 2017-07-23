@@ -22,12 +22,12 @@ author:  # change following line to your infomation.
   email: mattj@live.unc.edu  # Leave blank if you don't have now
   cv: https://opal.ils.unc.edu/~mattj/CV/Johnson-CV-July2017.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  #skill_icon1:
-   # - name: fa-book
-   # - name: icon-coffee-bean
-  #skill_icon2:
-   # - name: icon-coffee-bean
-   # - name: fa-book
+  skill_icon1:
+    - name: fa-book
+    - name: icon-coffee-bean
+  skill_icon2:
+    - name: icon-coffee-bean
+    - name: fa-book
   desc: UNC MSLS Candidate 2018 | Interested in Academic Libraries & Health Information Behavior  # Describe yourself.
 
 # comment
