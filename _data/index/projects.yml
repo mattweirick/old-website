@@ -2,7 +2,7 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Community Workshop Series
-  website: cws.web.unc.edu
+  website: https://cws.web.unc.edu
   img: /static/assets/img/landing/cws_logo_resized.png
   desc: This program has existed at UNC for the past 16 years. It's currently a partnership between UNC SILS and three local libraries to provide digital literacy instruction to members of the local community.
 
